@@ -80,6 +80,6 @@ Project is divided into 4 categories:
 
 	**... and many more inside the report ! **
 
-
+## Deployed App:https://share.streamlit.io/yashj05/olympic-data-analysis/main/app.py
 
 
